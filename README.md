@@ -1,2 +1,2 @@
 # Neon
-## Music Generator
+### Music Generator
